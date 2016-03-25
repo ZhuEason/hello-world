@@ -1,3 +1,11 @@
 # hello-world
-The first Git-up repository, 24,03,2016
-the first time to change the Readme.txt
+git init
+
+git add .
+git commit . -m "first commit"
+
+git remote -v
+git remote add myorigin git@github.com:ZhuEason/AWS-module.git
+
+git push myorigin master
+
